@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫Sobre mim:
 🔭 Sou estudante de FRONT-END!<br>👯 Estou a procura de estagio!<br>🤝 Cursando Tecnologia da Informação - SENAI<br>🌱 Sou Apenas um curioso amante da PROGRAMAÇÃO!<br>
 
 
